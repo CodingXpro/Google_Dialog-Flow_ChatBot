@@ -12,7 +12,7 @@ Project is created with:
 *
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, install it locally :
 
 ![image](https://github.com/CodingXpro/Google_Dialog-Flow_ChatBot/assets/98632075/565b96a6-ecc9-4f15-a982-3bb1233f01e7)
 
